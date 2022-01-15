@@ -8,7 +8,7 @@ module.exports = {
     extend: {
       colors: {
         // define your own colors here, example:
-        mycolor: "#A259FF",
+        bgcolorrrr: "#282C34",
       },
     },
     plugins: [],
