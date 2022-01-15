@@ -1,6 +1,5 @@
 module.exports = {
-  purge: [],
-  darkMode: false, // or 'media' or 'class'
+  content: [],
   theme: {
     extend: {
       colors: {
@@ -10,9 +9,6 @@ module.exports = {
       fontFamily: {
 
       }
-    },
-    variants: {
-      extend: {},
     },
     plugins: [],
 
